@@ -32,3 +32,4 @@ const users = [
       console.table(usr);
   }
   getUsersNames(users);
+  // Completed.
