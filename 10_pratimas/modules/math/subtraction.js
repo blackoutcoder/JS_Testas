@@ -1,3 +1,3 @@
-function substraction(a, b) {
-  return a - b;
+function substraction(x, y) {
+  return x - y;
 }
