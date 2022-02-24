@@ -31,7 +31,8 @@
     display: flex;
     align-items:center;
     border: solid rgb(66, 39, 39);
-    margin: 5px;
+    margin: 30px;
+    padding-right: 50px;
     background-color:blanchedalmond;
 }  
 h1  {
@@ -44,6 +45,6 @@ h3 {
     text-align: justify;
 }
 #output {
-  color: rgb(0, 116, 77);
   
+  margin: 20px;
 }
