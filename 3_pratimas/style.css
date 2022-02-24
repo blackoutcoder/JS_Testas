@@ -49,7 +49,7 @@
   }
   
   .output-cointainer h1 {
-    color: #fff;
+    color: rgb(241, 155, 155);
   }
   
   .output-cointainer #output {
@@ -57,12 +57,15 @@
     margin-top: 25px;
     padding: 30px;
     border-radius: 5px;
-    background-color: #fff;
+    background-color: rgb(253, 206, 206);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 #output div {
     text-align: center;
     font-size: 12px;
-    border: solid black;
+    border: solid rgb(23, 49, 196);
 }  
 #output h1 {
     text-align: center;
@@ -74,13 +77,4 @@
 .card {
  margin: 20px;
  width: min-content;
-}
-#output img {
-    text-align: center;
-    
-  }
-#id {
-display: grid;
-grid-template-columns: 3;
-grid-template-rows: 6;
 }
