@@ -30,14 +30,20 @@
 .card {
     display: flex;
     align-items:center;
-    border: solid black;
+    border: solid rgb(66, 39, 39);
     margin: 5px;
+    background-color:blanchedalmond;
 }  
 h1  {
     padding-right: 20px;
     border: solid black;
     margin-right: 30px;
+    background-color: rgb(13, 106, 187);
 }
 h3 {
     text-align: justify;
+}
+#output {
+  color: rgb(0, 116, 77);
+  
 }
