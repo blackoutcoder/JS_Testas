@@ -27,8 +27,7 @@ function Calculator(x, y) {
 }
 
 const numbers = new Calculator(10, 20);
+console.log("Calculation of numbers 10 and 20.")
+console.log("Summ: " + numbers.sum() + ", substraction: " +  numbers.subtraction() + ", multiplication: " + numbers.multiplication() + ", division: " + numbers.division() + ".");
 
-console.log("Summ: " + numbers.sum() + ", substraction: " +  numbers.subtraction());
-console.log(numbers.multiplication());
-console.log(numbers.division());
 
