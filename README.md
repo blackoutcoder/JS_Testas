@@ -1,2 +1,1 @@
-# JS_Testas
-JavaScript galutinis testas.
+# JavaScript Examination in CodeAcademy.lt
